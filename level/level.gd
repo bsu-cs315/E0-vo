@@ -52,6 +52,8 @@ func _on_star_entered(body, star):
 		explosion.one_shot = true
 		add_child(explosion)
 		
+		$PickupSound.play()
+		
 # This function computes a random position on the board and 
 # returns it as a Vector2, which is an (x,y) coordinate pair,
 # like a point on a grid.
