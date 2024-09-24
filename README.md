@@ -8,6 +8,6 @@
 
 ## Licensing:
 **Third-Party Assets**
-- Music from [House In A Forest Loop - Copyright © 2012 HorrorPen] (https://opengameart.org/content/loop-house-in-a-forest), licensed under [CC-BY 3.0] (https://creativecommons.org/licenses/by/3.0/us/)
-- Images from [Kenney's Abstract Platformer pack] (https://www.kenney.nl/assets/abstract-platformer), licensed under [CC0 1.0] (https://creativecommons.org/publicdomain/zero/1.0/) 
-- Font is Xolonium Copyright © 2011-2016 Severin Meyer, licensed under [SIL Open Font License] (http://scripts.sil.org/OF)
+- Music from [House In A Forest Loop - Copyright © 2012 HorrorPen](https://opengameart.org/content/loop-house-in-a-forest), licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/us/)
+- Images from [Kenney's Abstract Platformer pack](https://www.kenney.nl/assets/abstract-platformer), licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) 
+- Font is Xolonium Copyright © 2011-2016 Severin Meyer, licensed under [SIL Open Font License](http://scripts.sil.org/OF)
